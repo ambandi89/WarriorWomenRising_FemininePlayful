@@ -177,10 +177,10 @@ h2 ul {
 h2 ul li {
     list-style: none;
     color: #d4af37;
-    text-shadow: 0 0 30px #d4af37, 0 0 30px #ff6c00;
+    text-shadow: 0 0 10px #d4af37, 0 0 10px #ff6c00;
     font-size: 7.5vw;
     padding: 0;
-    animation: Rising 2s ease-in 1;
+    animation: Rising 3.5s ease-in 1;
 }
 
 @keyframes Rising {
@@ -191,10 +191,10 @@ h2 ul li {
     text-shadow: none;}
 
     80% { color: #d4af37;
-    text-shadow: 0 0 100px #d4af37, 0 0 100px #ff6c00;}
+    text-shadow: 0 0 5px #d4af37, 0 0 5px #ff6c00;}
 
     100% { color:#d4af37;
-    text-shadow: 0 0 100px #d4af37, 0 0 200px #ff6c00;}
+    text-shadow: 0 0 10px #d4af37, 0 0 10px #ff6c00;}
     }
 
 /* ul li:nth-child(1) {
