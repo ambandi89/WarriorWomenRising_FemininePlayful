@@ -155,11 +155,11 @@ a:focus {
   src: url('fonts/CooperHewitt-Semibold.otf') format('woff2');
 }
 h1 {
-    font-family: "CooperHewitt";
+    font-family: "Cinzel", serif;
     font-size: 8.5vw;
     display: flex;
     position: relative;
-    top: -310px;
+    top: -340px;
     color: #f1d1b5;
     justify-content: center;
 }
@@ -168,7 +168,7 @@ h2 {
     font-size: 7.5vw;
     display: flex;
     position: relative;
-    top: -345px;
+    top: -360px;
     color: #d4b483;
     justify-content: center;
 }
@@ -274,7 +274,7 @@ section {
     padding: 35px 20px;
 }
 main section h3 {
-    font-family: "CooperHewitt";
+    font-family: "Cinzel", serif;
     font-size: 5vw;
     color: black;
     text-align: center;
