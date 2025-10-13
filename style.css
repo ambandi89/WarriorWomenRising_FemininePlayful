@@ -107,6 +107,7 @@ nav {
 header {
     position: relative;
     background-color: black;
+    height: 70vh;
 }
 header img {
     width: 100px;
@@ -252,6 +253,14 @@ header button a {
     font-weight: 600;
     font-size: 18px;
 }
+#dogtags {
+    display: block;
+    margin: auto;
+    height: 75px;
+    width: auto;
+    position: relative;
+    bottom: 100px;
+}
 main {
     background: url(img/women-5635784.png)bottom center / cover;
     /* background: linear-gradient(rgba(0,0,0, 1), rgba(0,0,0, .35)), url(img/texture-1306790.jpg)bottom center / cover; */
@@ -276,4 +285,12 @@ section p {
     font-size: 4vw;
     color: black;
     opacity: 100%;
+}
+section img {
+    height: 300px;
+    width: auto;
+}
+section h3 img {
+    height: 100px;
+    width: auto;
 }
