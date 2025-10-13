@@ -267,6 +267,7 @@ main {
 }
 .main-container {
     background: rgba(241, 209, 181, 0.85);
+    border: 10px solid #254441;
     position: relative;
     padding: 25px;
 }
