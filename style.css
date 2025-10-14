@@ -107,7 +107,7 @@ nav {
 header {
     position: relative;
     background-color: black;
-    height: 70vh;
+    height: 85vh;
 }
 header img {
     width: 100px;
@@ -159,7 +159,7 @@ h1 {
     font-size: 8.5vw;
     display: flex;
     position: relative;
-    top: -340px;
+    top: -400px;
     color: #f1d1b5;
     justify-content: center;
 }
@@ -168,7 +168,7 @@ h2 {
     font-size: 7.5vw;
     display: flex;
     position: relative;
-    top: -360px;
+    top: -420px;
     color: #d4b483;
     justify-content: center;
 }
@@ -226,7 +226,7 @@ header p {
     font-size: 3vw;
     display: flex;
     position: relative;
-    top: -115px;
+    top: -210px;
     color: #fff;
     margin: 0px 30px;
     width: auto;
@@ -244,7 +244,7 @@ header button {
     margin-top: -10px;
     margin-bottom: 15px;
     position: relative;
-    top: -150px;
+    top: -225px;
 }
 header button a {
     text-decoration: none;
@@ -252,6 +252,15 @@ header button a {
     color: white;
     font-weight: 600;
     font-size: 18px;
+}
+.youtube-video {
+    width: 80vw;
+    height: calc(80vw / 1.77);
+    display: block;
+    margin: auto;
+    position: relative;
+    top: -180px;
+    z-index: 1;
 }
 #dogtags {
     display: block;
